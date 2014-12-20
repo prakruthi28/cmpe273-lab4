@@ -1,4 +1,1 @@
-cmpe273-lab4
-============
-
-CMPE 273 Lab 4 CRDT mock up
+cmpe273-Lab4
